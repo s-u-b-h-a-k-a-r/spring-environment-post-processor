@@ -1,0 +1,4 @@
+rootProject.name = 'spring-environment-post-processor'
+
+include 'post-processor-starter'
+include 'post-processor-client'
