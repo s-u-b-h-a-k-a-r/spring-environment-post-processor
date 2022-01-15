@@ -1,4 +1,4 @@
-package com.subhakar.spring.postprocessorclient;
+package com.subhakar.spring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

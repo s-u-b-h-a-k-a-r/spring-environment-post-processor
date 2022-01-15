@@ -1,4 +1,4 @@
-package com.subhakar.spring.postprocessorclient;
+package com.subhakar.spring;
 
 import com.subhakar.spring.calculator.PriceCalculator;
 import org.springframework.beans.factory.annotation.Autowired;
